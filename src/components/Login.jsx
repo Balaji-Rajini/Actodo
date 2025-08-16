@@ -43,7 +43,8 @@ function Login(props) {
                 <div className="bg-[#EFEFEF] p-10 border rounded-md">
                     <h1 className="text-3xl font-medium"> Hey Hello... Welcome</h1>
                     {ruser ?
-                        <p>I help You Manage Your Activitie Aftert You Login...</p> :
+                        <p>I Will help You to
+                            Manage Your Activities Aftet You Login...</p> :
                         <p className="text-red-500">Please Sign up Before You Login...</p>}
                     <div className="flex flex-col gap-2 my-2">
 
